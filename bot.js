@@ -1172,7 +1172,7 @@ var engine = {
             }, left);
         }
         } else {
-            GUI.showMsg("Полная версия");
+            GUI.showMsg("Моя версия");
             setTimeout(function() {
 				GUI.hideMsg();
 			}, 5000);
